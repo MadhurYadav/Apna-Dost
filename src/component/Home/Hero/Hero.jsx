@@ -44,7 +44,7 @@ const Hero = () => {
                     </Box>
                     <Box marginBottom={3}>
                         <Typography variant="h6" component="p" color="text.secondary">
-                            Lorem 
+                            Say Hi! and tell your business problems to GoodBye!
                             <br />
                             Lorem ipsum dolor sit amet.
                         </Typography>
